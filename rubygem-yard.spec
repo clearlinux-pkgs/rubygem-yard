@@ -4,7 +4,7 @@
 #
 Name     : rubygem-yard
 Version  : 0.8.7.6
-Release  : 5
+Release  : 6
 URL      : https://rubygems.org/downloads/yard-0.8.7.6.gem
 Source0  : https://rubygems.org/downloads/yard-0.8.7.6.gem
 Summary  : No detailed summary available
